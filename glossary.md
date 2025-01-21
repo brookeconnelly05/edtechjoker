@@ -204,7 +204,8 @@ https://httpd.apache.org/
 
 
 ## Webpack
-Webpack is a free, open-source tool that bundles JavaScript, CSS, and images for websites. It's used to create static assets that serve content to a browser.
+Webpack is a free, open-source tool that bundles JavaScript, CSS, and images for websites. It's used to create static assets that serve content to a browser. 
+https://webpack.js.org/
 
 ## OpenFaaS
 
